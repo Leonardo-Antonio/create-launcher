@@ -1,0 +1,30 @@
+{
+  "name": "create-launcher-app",
+  "version": "1.0.0",
+  "description": "Crea tu propia lanzador de tu aplicación.",
+  "main": "out/main.js",
+  "productName": "Create launcher app",
+  "scripts": {
+    "start": "tsc && electron .",
+    "build": "electron-builder --linux"
+  },
+  "keywords": [
+    "create launcher",
+    "lazador de apps",
+    "aplications",
+    "aplication",
+    "app",
+    "lanzador",
+    "acceso directo",
+    "personalizar app",
+    "custom app",
+    "custom laucher app"
+  ],
+  "author": "Leonardo Antonio Nolasco Leyva",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.7",
+    "electron-builder": "^22.14.5"
+  }
+}
+  
