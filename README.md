@@ -1,6 +1,7 @@
 # Create launcher app - Crea lanzadores para tus aplicaciones
 
 [Descargar App Portable (AppImage)](assets/Create%20launcher%20app-1.0.0.AppImage)
+[Descarga App con snap](https://snapcraft.io/create-launcher-app)
 <br />
 Crea lanzadores de tus aplicaciones en simples. - Linux
 Solo es necesario un icono, nombre, especificar categoria y seleccionar el ejecutable de la aplicación,
